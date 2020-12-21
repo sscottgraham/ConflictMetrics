@@ -1,1 +1,4 @@
 # ConflictMetrics
+ConflictMetrics is the public-facing portal for data on research funding and conflicts of interest in health and medicine. Th3 site is devoted to providing public access to biomedical research sponsorship and funding data. The focus on data visualization is part of this project's broader aims of helping researchers, policymakers, providers, and patients rethink conflicts of interest. Research projects presented on ConflictMetrics have been supported by the National Endowment for the Humanities, the NSF’s Extreme Science and Engineering Discovery Environment (XSEDE), and the National Institutes of Health. 
+
+This repository provides access to freely available code from the ConflictMetrics project. Additional code related to the NEH-funded Transparency to Visibility project is also available [here]( https://gitlab.com/grahamss/transparency2visibility). 
