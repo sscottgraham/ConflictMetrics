@@ -22,3 +22,8 @@ Concerns over the potential effects of industry funding and COI have been a recu
 * Graham, S.S., Majdik, Z.P, Barbour, J.B., & Rousseau, J.F. (2021). A dashboard for exploring clinical trials sponsorship and potential virtual monopolies. JAMIA (Journal of the American Medical Informatics Association) Open. 4(4), ooab089. https://doi.org/10.1093/jamiaopen/ooab089. 
 * Graham, S.S., Majdik, Z., Clark, D. (2020). Methods for extracting relational data from unstructured texts prior to network visualization in humanities research. Journal of Open Humanities Data. 6(8): DOI: https://doi.org/10.5334/johd.21. 
 * Graham, S.S., Majdik, Z.P., Clark, D., Kessler, M.M., & Hooker, T.B. (2020). Relationships among commercial practices and author conflicts of interest in biomedical publishing. PLoS ONE 15(7), e0236166. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236166.
+
+## Funding 
+* Graham, S.S. (Lead PI), Barbour, J.B., Rousseau, J.F., & Majdik, Z.P. A Network Science Approach to Conflicts of Interest: Metrics, Policies, and Communication Design. (1R01GM141476). National Institutes of Health. 2020—2024. 
+* Graham, S.S. (PI). & Clark, D. Transparency to Visibility (T2V): Network Visualization in Humanities Research. National Endowment for the Humanities. 2018—2020. 
+* Graham, S.S. (PI). Transparency to Visibility (T2V): Network Visualization in Humanities Research. Extreme Science and Engineering Discovery Environment. 2018—2019. 
